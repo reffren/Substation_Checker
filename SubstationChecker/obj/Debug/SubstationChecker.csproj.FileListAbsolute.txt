@@ -1,0 +1,15 @@
+c:\users\tim\documents\visual studio 2013\Projects\SubstationChecker\SubstationChecker\bin\Debug\SubstationChecker.exe.config
+c:\users\tim\documents\visual studio 2013\Projects\SubstationChecker\SubstationChecker\obj\Debug\SubstationChecker.csprojResolveAssemblyReference.cache
+c:\users\tim\documents\visual studio 2013\Projects\SubstationChecker\SubstationChecker\obj\Debug\MainWindow.baml
+c:\users\tim\documents\visual studio 2013\Projects\SubstationChecker\SubstationChecker\obj\Debug\MainWindow.g.cs
+c:\users\tim\documents\visual studio 2013\Projects\SubstationChecker\SubstationChecker\obj\Debug\App.g.cs
+c:\users\tim\documents\visual studio 2013\Projects\SubstationChecker\SubstationChecker\obj\Debug\SubstationChecker_MarkupCompile.cache
+c:\users\tim\documents\visual studio 2013\Projects\SubstationChecker\SubstationChecker\obj\Debug\SubstationChecker.g.resources
+c:\users\tim\documents\visual studio 2013\Projects\SubstationChecker\SubstationChecker\obj\Debug\SubstationChecker.Properties.Resources.resources
+c:\users\tim\documents\visual studio 2013\Projects\SubstationChecker\SubstationChecker\obj\Debug\SubstationChecker.csproj.GenerateResource.Cache
+c:\users\tim\documents\visual studio 2013\Projects\SubstationChecker\SubstationChecker\obj\Debug\Settings.baml
+c:\users\tim\documents\visual studio 2013\Projects\SubstationChecker\SubstationChecker\obj\Debug\Settings.g.cs
+c:\users\tim\documents\visual studio 2013\Projects\SubstationChecker\SubstationChecker\bin\Debug\SubstationChecker.exe
+c:\users\tim\documents\visual studio 2013\Projects\SubstationChecker\SubstationChecker\bin\Debug\SubstationChecker.pdb
+c:\users\tim\documents\visual studio 2013\Projects\SubstationChecker\SubstationChecker\obj\Debug\SubstationChecker.exe
+c:\users\tim\documents\visual studio 2013\Projects\SubstationChecker\SubstationChecker\obj\Debug\SubstationChecker.pdb
